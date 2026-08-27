@@ -10,6 +10,6 @@ Este es un script de automatización desarrollado en **Python** diseñado para e
 * **Control de Almacenamiento:** Verifica el espacio total y libre en el disco principal (C:).
 * **Generación de Logs:** Crea automáticamente un archivo `.txt` con la fecha, hora exacta y los resultados del escaneo para mantener un historial de rendimiento.
 
-##  Tecnologías Utilizadas
+##  Herramientas Utilizadas
 * **Lenguaje:** Python 3
 * **Librerías principales:** `psutil` (extracción de métricas de hardware), `platform` (datos del SO), `datetime` (marcas de tiempo).
