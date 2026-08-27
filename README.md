@@ -13,8 +13,3 @@ Este es un script de automatización desarrollado en **Python** diseñado para e
 ##  Tecnologías Utilizadas
 * **Lenguaje:** Python 3
 * **Librerías principales:** `psutil` (extracción de métricas de hardware), `platform` (datos del SO), `datetime` (marcas de tiempo).
-
-##  Cómo ejecutarlo
-1. Clonar este repositorio o descargar el archivo `Monitoreowindows.py`.
-2. Instalar la dependencia necesaria ejecutando en la terminal: `pip install psutil`
-3. Ejecutar el script con: `python Monitoreowindows.py`
