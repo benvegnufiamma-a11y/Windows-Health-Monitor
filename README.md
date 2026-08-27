@@ -1,5 +1,4 @@
-# Windows-Health-Monitor
-Script en Python para auditar el rendimiento del hardware (CPU, RAM, Disco) y generar logs automáticos
+
 #  Script de Monitoreo de Salud de Windows (Python)
 
 ##  Sobre el Proyecto
