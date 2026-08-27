@@ -1,8 +1,9 @@
 === REPORTE DE SALUD DEL SISTEMA ===
-Fecha de ejecucion: 2026-08-27 10:58:32
+Fecha de ejecución: 2026-08-27 11:30:33
 Sistema Operativo: Windows 11
 
-[CPU] Uso actual: 10.5%
+[CPU] Uso actual: 12.1%
 [RAM] Total: 15.12 GB
-[RAM] Usada: 70.1%
-[DISCO C:] Total: 464.97 GB | Libre: 11.69 GB
+[RAM] Usada: 12.57 GB (83.1%)
+   ⚠️ ALERTA CRÍTICA: El uso de la memoria RAM superó el 75%.
+[DISCO C:] Total: 464.97 GB | Libre: 83.05 GB
